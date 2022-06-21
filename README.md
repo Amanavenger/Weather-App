@@ -11,3 +11,7 @@ Node.js - JavaScript runtime
 Express - Server Framework
 MapBox API - Latitude and longitude
 OpenWeather - Weather information
+
+
+
+How to run locally Install Node.JS. Clone the repository or download it. Browse the project repository on your command prompt or terminal. Run npm install to install dependencies defined in package.json. Run nodemon server.js Visit http://localhost:3000 on your browser
