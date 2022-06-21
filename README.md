@@ -6,8 +6,8 @@ This project involves using Nodejs, Open Weather API for Forecast and MapBox API
 
 
 # Built With
-Node.js - JavaScript runtime
-Express - Server Framework
+Node.js - JavaScript runtime.
+Express - Server Framework.
 MapBox API - Latitude and longitude
 OpenWeather - Weather information
 EJS - Template Engine
